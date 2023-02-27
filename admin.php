@@ -5,7 +5,6 @@ include 'includes/dashboardHeader.php';
  <div class="content">
 
  	<h2>Admin Panel</h2>
-
  </div>
 
 
